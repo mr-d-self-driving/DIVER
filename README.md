@@ -1,4 +1,4 @@
-# [DIVER] Breaking Imitation Bottlenecks: Reinforced Diffusion Powers Diverse Trajectory Generation
+# [DIVER] DIVER: Reinforced Diffusion Breaks Imitation Bottlenecks in End-to-End Autonomous Driving
 
 <div align="justify">  
 
