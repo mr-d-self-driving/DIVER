@@ -1,4 +1,4 @@
-# [DIVER] DIVER: Reinforced Diffusion Breaks Imitation Bottlenecks in End-to-End Autonomous Driving
+#  DIVER: Reinforced Diffusion Breaks Imitation Bottlenecks in End-to-End Autonomous Driving
 
 <div align="justify">  
 
