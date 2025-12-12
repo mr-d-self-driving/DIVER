@@ -2,7 +2,7 @@
 
 <div align="justify">  
 
-This is the official repository of [**DIVER**](https://arxiv.org/abs/2503.03125). 
+This is the official repository of [**DIVER**](https://arxiv.org/abs/2507.04049). 
 
 
 
