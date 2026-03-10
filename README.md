@@ -101,8 +101,8 @@ SparseDrive |0.05| 0.11| 0.23| 0.13| **0.01**| 0.05| 0.18| 0.08|
 If you find DIVER is useful in your research or applications, please consider giving us a star 🌟 and citing it by the following BibTeX entry.
 
 ```
-@article{song2025breaking,
-  title={Breaking imitation bottlenecks: Reinforced diffusion powers diverse trajectory generation},
+@article{song2025diver,
+  title={DIVER: Reinforced Diffusion Breaks Imitation Bottlenecks in End-to-End Autonomous Driving},
   author={Song, Ziying and Liu, Lin and Pan, Hongyu and Liao, Bencheng and Guo, Mingzhe and Yang, Lei and Zhang, Yongchang and Xu, Shaoqing and Jia, Caiyan and Luo, Yadan},
   journal={arXiv preprint arXiv:2507.04049},
   year={2025}
